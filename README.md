@@ -1,7 +1,7 @@
 # Coronavirus-Dashboard
 Coronavirus Tracker Script
 
-Coronavirus Tracker HTML/JS example:
+Coronavirus Tracker HTML/JS example: [coronavirus dashboard (CodePen)](https://codepen.io/_yatko/pen/KKdqBwv)
 
 - **coronavirus-dashboard.html**
 ```html
